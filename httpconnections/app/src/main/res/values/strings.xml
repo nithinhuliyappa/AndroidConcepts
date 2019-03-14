@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">httpconnections</string>
+    <string name="checkNetwork">Check Network</string>
+</resources>

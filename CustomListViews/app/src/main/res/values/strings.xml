@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomListViews</string>
+    <string name="subject" />
+    <string name="summary" />
+    <string name="sender" />
+</resources>

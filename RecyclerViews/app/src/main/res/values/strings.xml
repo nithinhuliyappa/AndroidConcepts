@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViews</string>
+    <string name="subject">subject</string>
+    <string name="sender">sender</string>
+    <string name="summary">summary</string>
+    <string name="doButton">DO</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">API and Data Parsing</string>
+    <string name="parseJson">Parse JSON</string>
+</resources>

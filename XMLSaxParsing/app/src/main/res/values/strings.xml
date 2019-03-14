@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XMLSaxParsing</string>
+    <string name="parseXML">Parse XML</string>
+</resources>
