@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManagingMutipleFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello First fragment</string>
+    <string name="secondFragment">Hello Second Fragment</string>
+    <string name="firstFragment">Hello First Fragment</string>
+    <string name="gotoNextFragmentButton" translatable="false">Go to 2nd Fragment</string>
+</resources>

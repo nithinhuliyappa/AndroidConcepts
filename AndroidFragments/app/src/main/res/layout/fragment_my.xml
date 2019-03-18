@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my1Fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".MyFragment">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="334dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/white"
+        android:ems="10"
+        android:hint="@string/hintText"
+        android:inputType="textPersonName"
+        android:text="@string/editText" />
+
+    <Button
+        android:id="@+id/clickMeButton"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/clickMeButton" />
+</FrameLayout>
